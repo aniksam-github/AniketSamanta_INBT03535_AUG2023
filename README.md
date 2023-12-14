@@ -15,7 +15,8 @@ Task 2: Air Pollution PM2.5 Prediction Description The "Air Pollution PM2.5 Anal
 
 Dataset https://www.kaggle.com/datasets/ineubytes/pm25-airpolution-dataset
 
-Major Project: Customer Segmentation and Predictive Modelling Description This projects deal with the segmentation of customers based on their spending behavior. This segmentation of customers can be much better insights for business decision-making and strategy building. This project also deals with the prediction of the annual spending of the customer based on their past purchases.
+Major Project: 
+Customer Segmentation and Predictive Modelling Description This projects deal with the segmentation of customers based on their spending behavior. This segmentation of customers can be much better insights for business decision-making and strategy building. This project also deals with the prediction of the annual spending of the customer based on their past purchases.
 
 Dataset https://www.kaggle.com/datasets/ineubytes/online-retail-ecommerce-dataset
 
